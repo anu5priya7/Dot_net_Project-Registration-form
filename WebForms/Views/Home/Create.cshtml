@@ -1,0 +1,149 @@
+﻿ @model WebForms.Models.StudentDb
+
+@{
+    ViewData["Title"] = Model.Id == 0 ? "Create Student" : "Edit Student";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h4>Student Information</h4>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="@(Model.Id == 0 ? "Create" : "Edit")">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="FatherName" class="control-label"></label>
+                <input asp-for="FatherName" class="form-control" />
+                <span asp-validation-for="FatherName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Country" class="control-label"></label>
+                <input asp-for="Country" class="form-control" />
+                <span asp-validation-for="Country" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="State" class="control-label"></label>
+                <select asp-for="State" class="form-control" asp-items="ViewBag.StateList" id="State">
+                    <option value="">-- Select State --</option>
+                </select>
+                <span asp-validation-for="State" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="District" class="control-label"></label>
+                <select asp-for="District" class="form-control" asp-items="ViewBag.DistrictList" id="District">
+                    <option value="">-- Select District --</option>
+                </select>
+                <span asp-validation-for="District" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Dob" class="control-label"></label>
+                <input asp-for="Dob" class="form-control" />
+                <span asp-validation-for="Dob" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Qualifications" class="control-label"></label>
+                @foreach (var qualification in ViewBag.Qualifications as List<string>)
+                {
+                    <div class="form-check">
+                        <input type="checkbox" name="SelectedQualifications" value="@qualification" class="form-check-input" @(Model.SelectedQualifications != null && Model.SelectedQualifications.Contains(qualification) ? "checked" : "") />
+                        <label class="form-check-label">@qualification</label>
+                    </div>
+                }
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Gender" class="control-label"></label>
+                <div>
+                    <input type="radio" name="Gender" value="Male" @(Model.Gender == "Male" ? "checked" : "") /> Male
+                    <input type="radio" name="Gender" value="Female" @(Model.Gender == "Female" ? "checked" : "") /> Female
+                </div>
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label>Hobbies</label>
+                <div id="hobbyList">
+                    @foreach (var hobby in Model.Hobbies ?? new List<string>())
+                    {
+                        <div class="input-group mb-2">
+                            <input type="text" name="Hobbies" value="@hobby" class="form-control" />
+                            <div class="input-group-append">
+                                <button class="btn btn-danger removeHobby" type="button">Remove</button>
+                            </div>
+                        </div>
+                    }
+                </div>
+                <button id="addHobby" type="button" class="btn btn-secondary">Add Hobby</button>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="@(Model.Id == 0 ? "Create" : "Save")" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            // Add new hobby
+            $("#addHobby").click(function () {
+                var hobbyHtml = '<div class="input-group mb-2"><input type="text" name="Hobbies" class="form-control" />' +
+                    '<div class="input-group-append"><button class="btn btn-danger removeHobby" type="button">Remove</button></div></div>';
+                $("#hobbyList").append(hobbyHtml);
+            });
+
+            // Remove hobby
+            $(document).on("click", ".removeHobby", function () {
+                $(this).closest(".input-group").remove();
+            });
+
+            // Load districts based on state selection
+            $("#State").change(function () {
+                var state = $(this).val();
+                if (state) {
+                    $.ajax({
+                        url: '@Url.Action("GetDistricts")',
+                        type: "GET",
+                        data: { state: state },
+                        success: function (data) {
+                            var districtDropdown = $("#District");
+                            districtDropdown.empty();
+                            districtDropdown.append('<option value="">-- Select District --</option>');
+                            $.each(data, function (i, district) {
+                                districtDropdown.append('<option value="' + district + '">' + district + '</option>');
+                            });
+                        }
+                    });
+                }
+            });
+
+            // Trigger district load on page load if state is already selected
+            var initialState = $("#State").val();
+            if (initialState) {
+                $("#State").trigger("change");
+            }
+        });
+    </script>
+}

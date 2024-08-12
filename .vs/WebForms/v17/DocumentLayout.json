@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anu5p\\source\\repos\\WebForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|c:\\users\\anu5p\\source\\repos\\webforms\\webforms\\webforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|solutionrelative:webforms\\webforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|c:\\users\\anu5p\\source\\repos\\webforms\\webforms\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|solutionrelative:webforms\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|c:\\users\\anu5p\\source\\repos\\webforms\\webforms\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|solutionrelative:webforms\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|c:\\users\\anu5p\\source\\repos\\webforms\\webforms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|solutionrelative:webforms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|c:\\users\\anu5p\\source\\repos\\webforms\\webforms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|solutionrelative:webforms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|c:\\users\\anu5p\\source\\repos\\webforms\\webforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|solutionrelative:webforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|c:\\users\\anu5p\\source\\repos\\webforms\\webforms\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|solutionrelative:webforms\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|c:\\users\\anu5p\\source\\repos\\webforms\\webforms\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|solutionrelative:webforms\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|c:\\users\\anu5p\\source\\repos\\webforms\\webforms\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|solutionrelative:webforms\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|c:\\users\\anu5p\\source\\repos\\webforms\\webforms\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|solutionrelative:webforms\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|c:\\users\\anu5p\\source\\repos\\webforms\\webforms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|solutionrelative:webforms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|c:\\users\\anu5p\\source\\repos\\webforms\\webforms\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|solutionrelative:webforms\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|c:\\users\\anu5p\\source\\repos\\webforms\\webforms\\models\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|solutionrelative:webforms\\models\\studentdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|c:\\users\\anu5p\\source\\repos\\webforms\\webforms\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|solutionrelative:webforms\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|c:\\users\\anu5p\\source\\repos\\webforms\\webforms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522A30BE-BCAD-4E78-B292-24A0E9FF67A8}|WebForms\\WebForms.csproj|solutionrelative:webforms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Program.cs",
+              "RelativeDocumentMoniker": "WebForms\\Program.cs",
+              "ToolTip": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Program.cs",
+              "RelativeToolTip": "WebForms\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T02:50:53.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebForms\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "WebForms\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T02:41:12.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebForms\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "WebForms\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T02:41:09.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebForms\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "WebForms\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T02:18:39.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebForms\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebForms\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T02:10:22.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebForms\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "WebForms\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T02:10:08.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebForms\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebForms\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T02:09:30.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebForms\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebForms\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T02:09:11.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebForms\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebForms\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T02:09:04.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\appsettings.json",
+              "RelativeDocumentMoniker": "WebForms\\appsettings.json",
+              "ToolTip": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\appsettings.json",
+              "RelativeToolTip": "WebForms\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T17:01:39.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForms.csproj",
+              "DocumentMoniker": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\WebForms.csproj",
+              "RelativeDocumentMoniker": "WebForms\\WebForms.csproj",
+              "ToolTip": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\WebForms.csproj",
+              "RelativeToolTip": "WebForms\\WebForms.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-10T17:01:44.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "WebForms\\Models\\StudentDbContext.cs",
+              "ToolTip": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "WebForms\\Models\\StudentDbContext.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:13:36.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentDb.cs",
+              "DocumentMoniker": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Models\\StudentDb.cs",
+              "RelativeDocumentMoniker": "WebForms\\Models\\StudentDb.cs",
+              "ToolTip": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Models\\StudentDb.cs",
+              "RelativeToolTip": "WebForms\\Models\\StudentDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:13:35.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebForms\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebForms\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T15:13:34.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebForms\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\anu5p\\source\\repos\\WebForms\\WebForms\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebForms\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:33:57.379Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
